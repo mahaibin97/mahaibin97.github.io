@@ -2,20 +2,15 @@
 
 这里有我的技术文章、读书笔记以及成长记录，欢迎阅读与分享。
 
-#####Python
+### Python
 1. Basic knowedge
 2. Python Spider
 
-#####Ruby
-Rails on 101
+### Markdown
 
-#####Markdown
+### HTML/CSS/Javescript
 
-#####HTML/CSS/Javescript
+### network
 
-#####network
-
-#####Operating System
-
-#####Read and Write
+### Read and Write
 
