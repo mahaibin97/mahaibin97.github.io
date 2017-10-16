@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to mahaibin's Blog on GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mahaibin97/mahaibin97.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这里有我的技术文章、读书笔记以及成长记录，欢迎阅读与分享。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#####Python
+1. Basic knowedge
+2. Python Spider
 
-### Markdown
+#####Ruby
+Rails on 101
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#####Markdown
 
-```markdown
-Syntax highlighted code block
+#####HTML/CSS/Javescript
 
-# Header 1
-## Header 2
-### Header 3
+#####network
 
-- Bulleted
-- List
+#####Operating System
 
-1. Numbered
-2. List
+#####Read and Write
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mahaibin97/mahaibin97.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
