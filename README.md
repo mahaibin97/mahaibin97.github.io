@@ -1,4 +1,4 @@
-## Welcome to [mahaibin's Blog](file:///C:/Users/%E9%A9%AC%E6%B5%B7%E6%96%8C/Desktop/%E6%96%87%E4%BB%B6/programing/GitHub/Html/00.html) on GitHub Pages
+## Welcome to [mahaibin's Blog](http://mahaibin97.github.io) on GitHub Pages
 
 这里有我的技术文章、读书笔记以及成长记录，欢迎阅读与分享。
 
