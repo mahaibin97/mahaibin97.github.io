@@ -29,7 +29,9 @@
 使用"[]()"。
 
 [Python](http://www.python.com)
-![](http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![photo](http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 #### 1.4 引用
 
 使用 '>'。
@@ -66,6 +68,7 @@ bar | bar  | bar
 baz | baz  | baz
 
 
-## source from：
-######1.[献给作者的Markdown说明](http://www.jianshu.com/p/q81RER)
-######2.[Markdown语法说明](http://wowubuntu.com/markdown/)
+## source from： 
+
+###### 1.[献给作者的Markdown说明](http://www.jianshu.com/p/q81RER)
+###### 2.[Markdown语法说明](http://wowubuntu.com/markdown/)
