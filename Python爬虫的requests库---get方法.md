@@ -1,9 +1,9 @@
-#!/usr/bin/env Markdown
+<!--#!/usr/bin/env Markdown
 # -*- coding: utf-8 -*-
 # @Date    : 2017-10-19 16:40:50
 # @Author  : kevin ma (mahaibin97@gmail.com)
 # @Link    : http://www.aduxingzhe.com
-# @Version : $Id$
+# @Version : $Id$-->
 
 Python爬虫的requests库---get方法
 ====
