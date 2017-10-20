@@ -1,9 +1,9 @@
-#!/usr/bin/env python
+<!--#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Date    : 2017-10-19 16:35:58
 # @Author  : kevin ma (mahaibin97@gmail.com)
 # @Link    : http://www.aduxingzhe.com
-# @Version : $Id$
+# @Version : $Id$-->
 
 Python爬虫的requests库---request方法
 ====
