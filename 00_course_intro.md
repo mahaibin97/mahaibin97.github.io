@@ -1,18 +1,16 @@
-## Welcome to [MaHaibin's Blog](http://mahaibin97.github.io) on GitHub Pages
+Welcome to [{ma}haibin](https://mahaibin97.github.io/)
+====
 
-这里有我的技术文章、读书笔记以及成长记录，欢迎阅读与分享。
+##### 关于马海斌
 
-### Python
-1. [Basic knowedge](http://www.runoob.com/python/python-tutorial.html)
-2. Python Spider
+一生只有一个职业：**学生**。
 
-### Markdown
+是的，马海斌只是一个学习者，仅此而已。
 
-### HTML/CSS/Javescript
 
-### network
-
-### Read and Write
+> ### Read and Write
 [学习的新体验---读《刻意学习》](http://www.jianshu.com/p/747c074c9175)
 
-***持续更新中，敬请关注***
+
+
+***持续更新中，敬请关注!***
