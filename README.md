@@ -5,12 +5,15 @@
 ### Python
 1. [Basic knowedge](http://www.runoob.com/python/python-tutorial.html)
 2. Python Spider
+3. Django
 
 ### Markdown
 
 ### HTML/CSS/Javescript
 
-### network
+### Network
+
+### MySQL
 
 ### Read and Write
 [学习的新体验---读《刻意学习》](http://www.jianshu.com/p/747c074c9175)
